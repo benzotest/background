@@ -1,0 +1,28 @@
+body{
+	font-family: arial;
+	color: rgba(0, 0, 0, 0.6);
+	text-transform: uppercase;
+	letter-spacing: 5%;
+	background: linear-gradient(to right, red, yellow);
+	display: flex;
+	align-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+	height: 900px;
+	width: auto;
+	border: grey 6px solid;
+	margin: 0px;
+	padding-top: 20%;
+	
+}
+
+
+section{
+	display: flex;
+	justify-content: space-around;
+}
+
+h2{
+	text-align: center;
+}
+
